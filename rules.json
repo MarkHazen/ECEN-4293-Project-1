@@ -1,0 +1,12 @@
+{
+  "alive_color": "#0B1D51",
+  "dead_color": "#725CAD",
+  "grid_color": "#0B1D51",
+
+  "game_size": 25,
+  "cell_size": 30,
+
+  "birth": [3],
+  "survival": [2, 3],
+  "wrap": false
+}
